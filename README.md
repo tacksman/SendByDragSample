@@ -1,1 +1,6 @@
 # SendByDragSample
+
+Multi Windownでの、アプリからのアプリへのドラッグ＆ドロップのサンプルです。
+
+こちらはドラッグ開始用アプリです。
+EditTextに好きなテキストを入力し、ReceiveByDropSampleのTextViewにドラッグ＆ドロップするとEditTextの入力内容が反映されます。
